@@ -1,0 +1,28 @@
+.bg{
+    background-color:darkkhaki
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+}
+p{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    width: auto !important;
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    cursor: default;
+    cursor: default !important;
+}
+button:hover {
+    background-color: green;
+   
+}
+img{
+    width: 20% !important;
+}
